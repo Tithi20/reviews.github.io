@@ -1,0 +1,57 @@
+body {
+  background-color: rgb(165, 217, 226);
+}
+
+#contain {
+  text-align: center;
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+#main {
+  background-color: white;
+  margin-top: 4rem;
+  border-radius: 10px;
+}
+img {
+  margin: 40px;
+  border-radius: 50%;
+  padding: 10px;
+  border: 5px dotted rgb(81, 170, 221);
+  max-width: 300px;
+}
+#underline {
+  text-decoration: underline;
+  text-decoration-color: rgb(67, 123, 133);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 3px;
+}
+.button {
+  padding-bottom: 20px;
+}
+button {
+  background-color: white;
+  border: 2px solid rgb(165, 217, 226);
+  margin: 5px;
+  padding: 5px;
+  border-radius: 15px;
+}
+button:hover {
+  background-color: aquamarine;
+}
+
+#review {
+  padding: 20px;
+}
+
+#profession {
+  letter-spacing: 2px;
+  font-weight: bolder;
+  color: rgb(89, 148, 158);
+  font-size: x-large;
+  font-family: cursive;
+}
+
+#name {
+  font-size: x-large;
+  letter-spacing: 3px;
+}
